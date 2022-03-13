@@ -4,7 +4,7 @@
     <title>PHP CRUD</title>
 </head>
 <body>
-<h3><a href="userregister.html">Back to Register Page</h3>
+<h3><a href="index.html">Back to Register Page</h3>
 <h1 align="center">All Registered Users</h1>
 <table cellpadding="10" border="1px solid" align="center">
 <tr>
